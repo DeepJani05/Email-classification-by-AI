@@ -1,4 +1,4 @@
-# email-order-manager
+# Email classification by AI
 "Automated workflow for email classification, order processing, and customer inquiry handling using OpenAI API."
 
 This project automates email classification, order processing, and customer inquiry handling using the OpenAI API. It is designed to improve email management efficiency and streamline business workflows.
